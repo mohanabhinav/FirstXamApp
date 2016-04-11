@@ -14,6 +14,7 @@ namespace FirstXamApp
 //					new Label { Text = "Hello ContentPage" }
 //				}
 //			};
+			//change 5
 		}
 	}
 }
