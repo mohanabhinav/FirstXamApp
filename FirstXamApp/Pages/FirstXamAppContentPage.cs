@@ -23,11 +23,14 @@ namespace FirstXamApp
 //					new Label { Text = "Hello ContentPage" },
 //					button 
 //				}
-//			};
+//		};
 			parent.Children.Add(new Label{ Text = "Hello" });
+			parent.Children.Add(new Label{ Text = "World" });
+
 			parent.Children.Add(button);
 			parent.Children.Add(output);
 
+			//test checkin 
 			Content = parent;
 		}
 
