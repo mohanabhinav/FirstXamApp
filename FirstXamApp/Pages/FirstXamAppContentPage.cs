@@ -30,7 +30,7 @@ namespace FirstXamApp
 			parent.Children.Add(button);
 			parent.Children.Add(output);
 
-			//test checkin 2
+			//test checkin 3
 			Content = parent;
 		}
 
