@@ -8,7 +8,7 @@ namespace FirstXamApp
 	{
 		public FirstXamAppMasterDetailPage ()
 		{
-			
+			//test 4
 //			Content = new StackLayout { 
 //				Children = {
 //					new Label { Text = "Hello ContentPage" }
